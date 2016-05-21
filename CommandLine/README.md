@@ -1,0 +1,1 @@
+[Preview .md in terminal](http://tosburn.com/view-markdown-files-terminal/)
