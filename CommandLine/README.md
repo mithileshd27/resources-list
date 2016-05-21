@@ -1,1 +1,1 @@
-[Preview .md in terminal](http://tosburn.com/view-markdown-files-terminal/)
+[Preview .md in terminal](http://tosbourn.com/view-markdown-files-terminal/)
